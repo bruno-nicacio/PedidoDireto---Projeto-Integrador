@@ -1,0 +1,7 @@
+# ISBN;TITULO;AUTOR;ANO
+978-85-0001-001;Dom Casmurro;Machado de Assis;1899
+978-85-0001-002;O Cortico;Aluisio Azevedo;1890
+978-85-0001-003;Vidas Secas;Graciliano Ramos;1938
+978-85-0001-004;Iracema;Jose de Alencar;1865
+978-85-0001-005;O Guarani;Jose de Alencar;1857
+978-85-0001-006;Capitaes da Areia;Jorge Amado;1937
